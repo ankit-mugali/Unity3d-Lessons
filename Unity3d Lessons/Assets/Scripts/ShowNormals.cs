@@ -4,6 +4,8 @@
 public class ShowNormals : MonoBehaviour {
 
     public float length = 1;
+    
+    //this is a comment
 
     public Vector3 bias;
 
