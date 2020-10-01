@@ -136,6 +136,9 @@ public class Raymarching : SceneViewFilter
         EffectMaterial.SetVector("_CameraWS", CurrentCamera.transform.position);
 
         CustomGraphicsBlit(source, destination, EffectMaterial, 0);
+        
+        //To add my stuff here later
+        //If youre seeing this, im gonna alter this code to my benefit. thank you.
     }
 
 }
